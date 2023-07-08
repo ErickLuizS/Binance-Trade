@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AtualizarDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CadastrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CadastroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EscolherClienteAtualiazarDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EscolherClienteTrades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Completado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaDeTradesSheets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RealizandoAOrdem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RealizarOrdens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

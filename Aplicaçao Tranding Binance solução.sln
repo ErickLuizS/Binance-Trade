@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppUI", "AppUI\AppUI.csproj", "{D9F54E72-38F1-4E7F-9332-1835AB7493FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "binance-connector-dotnet-master\Src\Common\Common.csproj", "{BBBF502D-C114-4F9D-9721-49A8D07D1584}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleSheetsWrapper", "GoogleSheetsWrapper-main\src\GoogleSheetsWrapper\GoogleSheetsWrapper.csproj", "{D07A487A-7B59-4430-8111-F7BF672A39AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrandingBotClasses", "TrandingBotClasses\TrandingBotClasses.csproj", "{C0BE6788-91C4-4A72-B04A-D3AC95FF205C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleSheetsWrapper.Tests", "GoogleSheetsWrapper-main\src\GoogleSheetsWrapper.Tests\GoogleSheetsWrapper.Tests.csproj", "{73B9C500-A7C3-4756-95A3-017759338CC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spot", "binance-connector-dotnet-master\Src\Spot\Spot.csproj", "{422ABCAB-7B64-4469-80F0-D4F0D000DD22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F54E72-38F1-4E7F-9332-1835AB7493FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F54E72-38F1-4E7F-9332-1835AB7493FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F54E72-38F1-4E7F-9332-1835AB7493FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F54E72-38F1-4E7F-9332-1835AB7493FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBF502D-C114-4F9D-9721-49A8D07D1584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBF502D-C114-4F9D-9721-49A8D07D1584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBF502D-C114-4F9D-9721-49A8D07D1584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBF502D-C114-4F9D-9721-49A8D07D1584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07A487A-7B59-4430-8111-F7BF672A39AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07A487A-7B59-4430-8111-F7BF672A39AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07A487A-7B59-4430-8111-F7BF672A39AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07A487A-7B59-4430-8111-F7BF672A39AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BE6788-91C4-4A72-B04A-D3AC95FF205C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BE6788-91C4-4A72-B04A-D3AC95FF205C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BE6788-91C4-4A72-B04A-D3AC95FF205C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BE6788-91C4-4A72-B04A-D3AC95FF205C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B9C500-A7C3-4756-95A3-017759338CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B9C500-A7C3-4756-95A3-017759338CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B9C500-A7C3-4756-95A3-017759338CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B9C500-A7C3-4756-95A3-017759338CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422ABCAB-7B64-4469-80F0-D4F0D000DD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422ABCAB-7B64-4469-80F0-D4F0D000DD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422ABCAB-7B64-4469-80F0-D4F0D000DD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422ABCAB-7B64-4469-80F0-D4F0D000DD22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DBCB77A-2DEA-4EE1-B657-B43963B36244}
+	EndGlobalSection
+EndGlobal

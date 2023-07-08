@@ -1,0 +1,76 @@
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.Tests.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.Tests.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\testhost.exe
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\testhost.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\TrandingBotClasses.dll.config
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\TrandingBotClasses.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\TrandingBotClasses.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\TrandingBotClasses.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\TrandingBotClasses.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\Common.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\Cryptography.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.Tests.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\Spot.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\Common.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\Common.xml
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\Spot.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\Spot.xml
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\Cryptography.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.Tests.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.csproj.CopyComplete
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\obj\Debug\net6.0\refint\TrandingBotClasses.dll
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Área de Trabalho\GIT\TrandingBotClasses\obj\Debug\net6.0\ref\TrandingBotClasses.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\obj\Debug\net6.0\refint\TrandingBotClasses.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\testhost.exe
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\testhost.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.Tests.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.Tests.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\TrandingBotClasses.dll.config
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\TrandingBotClasses.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\TrandingBotClasses.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\TrandingBotClasses.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\TrandingBotClasses.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\Common.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.Tests.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\Spot.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\Common.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\Common.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\Spot.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\Spot.xml
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.Tests.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\bin\Debug\net6.0\GoogleSheetsWrapper.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.csproj.CopyComplete
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\obj\Debug\net6.0\TrandingBotClasses.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Tranding Binance\TrandingBotClasses\obj\Debug\net6.0\ref\TrandingBotClasses.dll

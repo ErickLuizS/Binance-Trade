@@ -1,0 +1,575 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\BotApp\\BotUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.9, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Spot\\Spot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Spot\\Spot.csproj",
+        "projectName": "Spot",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Spot\\Spot.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Spot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\BotApp\\BotUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\BotApp\\BotUI.csproj",
+        "projectName": "BotUI",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\BotApp\\BotUI.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\BotApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Cryptography\\Cryptography.csproj": {
+                "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Cryptography\\Cryptography.csproj"
+              },
+              "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\TrandingBotClasses\\TrandingBotClasses.csproj": {
+                "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\TrandingBotClasses\\TrandingBotClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.30, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "SQLitePCLRaw.bundle_e_sqlcipher": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "System.Security.Cryptography.Cng": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Z.EntityFramework.Extensions": {
+              "target": "Package",
+              "version": "[7.21.0, )"
+            },
+            "Z.EntityFramework.Extensions.EFCore": {
+              "target": "Package",
+              "version": "[7.21.0, )"
+            },
+            "Z.EntityFramework.Plus.EF6": {
+              "target": "Package",
+              "version": "[7.21.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Cryptography\\Cryptography.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Cryptography\\Cryptography.csproj",
+        "projectName": "Cryptography",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Cryptography\\Cryptography.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper.Tests\\GoogleSheetsWrapper.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper.Tests\\GoogleSheetsWrapper.Tests.csproj",
+        "projectName": "GoogleSheetsWrapper.Tests",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper.Tests\\GoogleSheetsWrapper.Tests.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper\\GoogleSheetsWrapper.csproj": {
+                "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper\\GoogleSheetsWrapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper\\GoogleSheetsWrapper.csproj": {
+      "version": "1.0.34",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper\\GoogleSheetsWrapper.csproj",
+        "projectName": "GoogleSheetsWrapper",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper\\GoogleSheetsWrapper.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.2.1, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.16.0, )"
+            },
+            "Google.Apis.Sheets.v4": {
+              "target": "Package",
+              "version": "[1.57.0.2720, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\TrandingBotClasses\\TrandingBotClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\TrandingBotClasses\\TrandingBotClasses.csproj",
+        "projectName": "TrandingBotClasses",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\TrandingBotClasses\\TrandingBotClasses.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\TrandingBotClasses\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Common\\Common.csproj"
+              },
+              "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Spot\\Spot.csproj": {
+                "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\binance-connector-dotnet-master (2)\\binance-connector-dotnet-master\\Src\\Spot\\Spot.csproj"
+              },
+              "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Cryptography\\Cryptography.csproj": {
+                "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Cryptography\\Cryptography.csproj"
+              },
+              "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper.Tests\\GoogleSheetsWrapper.Tests.csproj": {
+                "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper.Tests\\GoogleSheetsWrapper.Tests.csproj"
+              },
+              "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper\\GoogleSheetsWrapper.csproj": {
+                "projectPath": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\GIT\\Google Sheets C#\\GoogleSheetsWrapper-SemAlteração\\GoogleSheetsWrapper-main\\src\\GoogleSheetsWrapper\\GoogleSheetsWrapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Apis.Sheets.v4": {
+              "target": "Package",
+              "version": "[1.57.0.2826, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "SQLitePCLRaw.bundle_e_sqlcipher": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "SQLitePCLRaw.lib.e_sqlcipher": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
