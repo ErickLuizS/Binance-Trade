@@ -17,7 +17,8 @@ Após o cadastro, é possível editar o nome, a API key, a Secret key, o nome da
 
 Para realizar uma nova operação, é necessário fornecer o tipo de operação a ser executada, o lado da operação e o par de negociação. Dependendo do tipo de operação, será necessário definir os valores de preço e stop.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b284d1a0-4001-4e16-adee-e024ef1f2b0f/Untitled.png)
+![image](https://github.com/ErickLuizS/Binance-Trade/assets/101814841/4f3b4309-cbbf-4f9e-bd22-a1a4c5b1d477)
+
 
 É possível escolher operar com uma quantidade definida ou utilizando a porcentagem do saldo da conta. Por exemplo, se uma porcentagem de 6% for definida, a quantidade operada será 6% da quantidade da moeda na conta.
 
@@ -27,4 +28,3 @@ Todas as operações realizadas pelo software são salvas no banco de dados SQL 
 
 Para enviar dados para uma Planilha, é preciso que a planilha esteja com o acesso de "Editor" livre.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b60445c3-be76-4897-94bc-577bd73c66d8/Untitled.png)
