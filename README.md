@@ -28,3 +28,4 @@ Todas as operações realizadas pelo software são salvas no banco de dados SQL 
 
 Para enviar dados para uma Planilha, é preciso que a planilha esteja com o acesso de "Editor" livre.
 
+![image](https://github.com/ErickLuizS/Binance-Trade/assets/101814841/489daf68-508c-4680-8667-daaaabb3b6c2)
