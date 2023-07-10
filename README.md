@@ -10,7 +10,8 @@ Para cadastrar uma nova conta, é necessário ter uma API key e uma Secret Key. 
 
 Para adicionar o ID da planilha, basta copiar e colar essa sequência na URL da planilha:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e5dcf7e-fa66-41a1-a243-ab03d58e69da/Untitled.png)
+![image](https://github.com/ErickLuizS/Binance-Trade/assets/101814841/bd88f37c-58f6-4922-9d60-9f9cc4a054f0)
+
 
 Após o cadastro, é possível editar o nome, a API key, a Secret key, o nome da guia e o ID da folha.
 
