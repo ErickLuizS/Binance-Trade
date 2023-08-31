@@ -51,7 +51,7 @@ namespace TrandingBotClasses.Context
             var connectionString = new SqliteConnectionStringBuilder
             {
                 DataSource = databaseFile,
-                Password = "TBKrmv9d2345732117"// PRAGMA key is being sent from EF Core directly after opening the connection
+                Password = "TBKrmv9d2345732117"// PRAGMA key está sendo enviado pelo EF Core logo após abrir a conexão
                 };
                 return new SqliteConnection(connectionString.ToString());
             }
